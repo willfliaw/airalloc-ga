@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/airalloc/__init__.py
+src/airalloc/data.py
+src/airalloc/decoder.py
+src/airalloc/fitness.py
+src/airalloc/models.py
+src/airalloc/visualize.py
+src/airalloc.egg-info/PKG-INFO
+src/airalloc.egg-info/SOURCES.txt
+src/airalloc.egg-info/dependency_links.txt
+src/airalloc.egg-info/requires.txt
+src/airalloc.egg-info/top_level.txt
+src/airalloc/genetic/algorithm.py
+src/airalloc/genetic/operators.py

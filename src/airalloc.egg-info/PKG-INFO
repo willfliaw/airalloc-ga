@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: airalloc
+Version: 0.1.0
+Summary: GA-based aircraft allocation prototype
+Author: Davi Valério, Diogo Silva, Eduardo Cabrera, William Liaw
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: networkx>=3.0
+Requires-Dist: matplotlib>=3.7.0
+Dynamic: license-file

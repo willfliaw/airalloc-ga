@@ -1,0 +1,7 @@
+[project]
+name = "airalloc"
+version = "0.1.0"
+description = "GA-based aircraft allocation prototype"
+authors = [{name="Davi Valério"},{name="Diogo Silva"},{name="Eduardo Cabrera"},{name="William Liaw"}]
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.0.0","numpy>=1.24.0","networkx>=3.0","matplotlib>=3.7.0"]

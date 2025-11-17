@@ -1,0 +1,5 @@
+id,capacity,base,turnaround_min
+A1,180,GRU,40
+A2,180,GRU,40
+A3,150,BSB,35
+A4,150,GIG,35
